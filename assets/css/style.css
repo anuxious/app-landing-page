@@ -861,8 +861,8 @@ span {
     font-size: 18px;
     font-weight: 700;
     text-align: left;
-    background-color: #fff;
-    color: #1d2a5d;
+    background-color: #333333;
+    color: #fff;
 }
 
 .accordion-button:not(.collapsed)::after {
